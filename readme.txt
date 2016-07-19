@@ -5,3 +5,6 @@ Git is a tool.
 Git tracks changes of files.
 Create a new branch is quick.
 Create a new branch is quick and simple.
+
+
+git stash  ÔÝ´æ¹¤×÷Çø
