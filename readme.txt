@@ -8,3 +8,5 @@ Create a new branch is quick and simple.
 
 
 git stash  暂存工作区
+
+git  git  git  重要的事情说三遍
